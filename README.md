@@ -1,0 +1,2 @@
+# Notice
+由于nvidia官方对于isaacgym的停止维护，官方仓库已经消失，为了能正常构建安装使用isaacgym，故本仓库保存了最初版本未修改的原版代码，唯一差别就是直接把IsaacGymEnvs拓展放进来了。
