@@ -1,0 +1,3 @@
+# Isaac Gym Simplified Version
+这个是isaacgym的精简版本，主要是为了方便HIMLoco这个项目中docker的拉取而精简
+历史完整版本请见本仓库history分支。
